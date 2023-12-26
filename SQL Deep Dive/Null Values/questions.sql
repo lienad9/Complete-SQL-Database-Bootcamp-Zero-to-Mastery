@@ -4,7 +4,8 @@
 * Question: 
 * Assuming a students minimum age for the class is 15, what is the average age of a student?
 */
-
+select *
+from students
 /*
 * DB: https://www.db-fiddle.com/f/PnGNcaPYfGoEDvfexzEUA/0
 * Question: 
